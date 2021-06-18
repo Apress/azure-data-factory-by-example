@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Azure-SSIS-IntegrationRuntimeTest", "Azure-SSIS-IntegrationRuntimeTest\Azure-SSIS-IntegrationRuntimeTest.dtproj", "{91DEAE2F-30DE-4137-A25B-5BC08DB86481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91DEAE2F-30DE-4137-A25B-5BC08DB86481}.Development|Default.ActiveCfg = Development
+		{91DEAE2F-30DE-4137-A25B-5BC08DB86481}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46310330-AB90-4BF4-AE01-FB0B0B1CCC70}
+	EndGlobalSection
+EndGlobal

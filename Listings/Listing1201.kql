@@ -1,0 +1,3 @@
+ADFPipelineRun
+  | where PipelineName == "ImportSTFormatFile"
+  | where Status == "Failed"

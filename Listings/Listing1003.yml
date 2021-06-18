@@ -1,0 +1,14 @@
+- task: AzureResourceManagerTemplateDeployment@3
+  inputs:
+    deploymentScope: 'Resource Group'
+    azureResourceManagerConnection: '<your-service-connection-name>'
+    subscriptionId: '<your-azure-subscription-id>'
+    action: 'Create Or Update Resource Group'
+    resourceGroupName: '<your-resource-group-name>'
+    location:  '<your-production-factory-location>'
+    templateLocation: 'Linked artifact'
+    csmFile: '<your-development-factory-name>/ARMTemplateForFactory.json'
+    csmParametersFile: '<your-development-factory-name>/ARMTemplateParametersForFactory.json'
+    overrideParameters: |
+      -factoryName "<your-production-factory-name>"
+    deploymentMode: 'Incremental'

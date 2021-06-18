@@ -1,0 +1,26 @@
+trigger:
+  branches:
+    include:
+      - main
+  paths:
+    exclude:
+      - /devops-pipelines
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- task: AzurePowerShell@4
+  inputs:
+    azureSubscription: '<your-service-connection-name>'
+    azurePowerShellVersion: latestVersion
+    scriptType: inlineScript
+    inline: |
+      foreach($file in Get-ChildItem "data-factory-resources/pipeline") {
+        Write-Host "Deploying $($file.Basename)"
+        Set-AzDataFactoryV2Pipeline -Force `
+          -ResourceGroupName "<your-resource-group-name>" `
+          -DataFactoryName "<your-production-factory-name>" `
+          -Name "$($file.Basename)" `
+          -File "$($file.FullName)"
+      }

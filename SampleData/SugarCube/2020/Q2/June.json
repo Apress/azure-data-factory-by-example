@@ -1,0 +1,696 @@
+{
+  "Month": "01-jun-2020",
+  "Company": "Sugar Cube",
+  "Sales": [
+    {
+      "Product": "Creamies 10.57oz",
+      "ManufacturerProductCode": "CS-06633-0300",
+      "Units": 249,
+      "Value": 1616.01
+    },
+    {
+      "Product": "Caramax 6.59oz",
+      "ManufacturerProductCode": "CS-03233-0187",
+      "Units": 887,
+      "Value": 2386.03
+    },
+    {
+      "Product": "Googlies 1.94oz",
+      "ManufacturerProductCode": "CS-12196-0055",
+      "Units": 415,
+      "Value": 286.35
+    },
+    {
+      "Product": "Salt Chocolate 10.57oz",
+      "ManufacturerProductCode": "CS-19197-0300",
+      "Units": 27,
+      "Value": 88.83
+    },
+    {
+      "Product": "Chocolatey Nougat 8.81oz",
+      "ManufacturerProductCode": "CS-04960-0250",
+      "Units": 122,
+      "Value": 315.98
+    },
+    {
+      "Product": "The Original 4.23oz",
+      "ManufacturerProductCode": "CS-21793-0120",
+      "Units": 198,
+      "Value": 314.82
+    },
+    {
+      "Product": "Meltos 28.19oz",
+      "ManufacturerProductCode": "CS-15129-0800",
+      "Units": 348,
+      "Value": 7200.12
+    },
+    {
+      "Product": "Zoots 3.17oz",
+      "ManufacturerProductCode": "CS-24976-0090",
+      "Units": 498,
+      "Value": 692.22
+    },
+    {
+      "Product": "Sweetsverse 7.05oz",
+      "ManufacturerProductCode": "CS-21200-0200",
+      "Units": 74,
+      "Value": 324.86
+    },
+    {
+      "Product": "Rumbuns 2.47oz",
+      "ManufacturerProductCode": "CS-18317-0070",
+      "Units": 684,
+      "Value": 1634.76
+    },
+    {
+      "Product": "Zigzags 5.64oz",
+      "ManufacturerProductCode": "CS-24394-0160",
+      "Units": 337,
+      "Value": 940.23
+    },
+    {
+      "Product": "Yumyums 22.91oz",
+      "ManufacturerProductCode": "CS-24147-0650",
+      "Units": 833,
+      "Value": 11153.87
+    },
+    {
+      "Product": "Zigzags 3.52oz",
+      "ManufacturerProductCode": "CS-24394-0100",
+      "Units": 736,
+      "Value": 1538.24
+    },
+    {
+      "Product": "Dr Sweets 9.52oz",
+      "ManufacturerProductCode": "CS-07567-0270",
+      "Units": 480,
+      "Value": 811.2
+    },
+    {
+      "Product": "Paramels 8.35oz",
+      "ManufacturerProductCode": "CS-15988-0237",
+      "Units": 505,
+      "Value": 4287.45
+    },
+    {
+      "Product": "Whippersnappers 4.41oz",
+      "ManufacturerProductCode": "CS-23260-0125",
+      "Units": 806,
+      "Value": 2893.54
+    },
+    {
+      "Product": "Yumyums 5.71oz",
+      "ManufacturerProductCode": "CS-24147-0162",
+      "Units": 264,
+      "Value": 1106.16
+    },
+    {
+      "Product": "Minotaur 13.39oz",
+      "ManufacturerProductCode": "CS-15331-0380",
+      "Units": 57,
+      "Value": 347.13
+    },
+    {
+      "Product": "Sweetlings 7.05oz",
+      "ManufacturerProductCode": "CS-20945-0200",
+      "Units": 301,
+      "Value": 1682.59
+    },
+    {
+      "Product": "Elysian Fudge 1.76oz",
+      "ManufacturerProductCode": "CS-08978-0050",
+      "Units": 606,
+      "Value": 1508.94
+    },
+    {
+      "Product": "Elysian Fudge 4.41oz",
+      "ManufacturerProductCode": "CS-08978-0125",
+      "Units": 789,
+      "Value": 4331.61
+    },
+    {
+      "Product": "Sportsman 7.05oz",
+      "ManufacturerProductCode": "CS-20850-0200",
+      "Units": 454,
+      "Value": 1221.26
+    },
+    {
+      "Product": "Schnoogles 3.52oz",
+      "ManufacturerProductCode": "CS-20147-0100",
+      "Units": 382,
+      "Value": 1791.58
+    },
+    {
+      "Product": "Sweetlings 11.28oz",
+      "ManufacturerProductCode": "CS-20945-0320",
+      "Units": 56,
+      "Value": 464.24
+    },
+    {
+      "Product": "Sportsman 2.82oz",
+      "ManufacturerProductCode": "CS-20850-0080",
+      "Units": 507,
+      "Value": 654.03
+    },
+    {
+      "Product": "Daydream 7.05oz",
+      "ManufacturerProductCode": "CS-07320-0200",
+      "Units": 532,
+      "Value": 1431.08
+    },
+    {
+      "Product": "Twisters 4.23oz",
+      "ManufacturerProductCode": "CS-22005-0120",
+      "Units": 541,
+      "Value": 914.29
+    },
+    {
+      "Product": "Huckles 2.11oz",
+      "ManufacturerProductCode": "CS-14382-0060",
+      "Units": 270,
+      "Value": 294.3
+    },
+    {
+      "Product": "Obelisk 8.81oz",
+      "ManufacturerProductCode": "CS-15535-0250",
+      "Units": 472,
+      "Value": 2166.48
+    },
+    {
+      "Product": "Caramax 2.64oz",
+      "ManufacturerProductCode": "CS-03233-0075",
+      "Units": 313,
+      "Value": 403.77
+    },
+    {
+      "Product": "Hoots 2.47oz",
+      "ManufacturerProductCode": "CS-13469-0070",
+      "Units": 307,
+      "Value": 518.83
+    },
+    {
+      "Product": "Hoots 9.87oz",
+      "ManufacturerProductCode": "CS-13469-0280",
+      "Units": 66,
+      "Value": 342.54
+    },
+    {
+      "Product": "Bitterbutter 15.51oz",
+      "ManufacturerProductCode": "CS-01087-0440",
+      "Units": 286,
+      "Value": 1827.54
+    },
+    {
+      "Product": "Cheeky Caramels 31.72oz",
+      "ManufacturerProductCode": "CS-04415-0900",
+      "Units": 309,
+      "Value": 5558.91
+    },
+    {
+      "Product": "Elysian Fudge 7.05oz",
+      "ManufacturerProductCode": "CS-08978-0200",
+      "Units": 603,
+      "Value": 4637.07
+    },
+    {
+      "Product": "Boho 7.05oz",
+      "ManufacturerProductCode": "CS-01414-0200",
+      "Units": 37,
+      "Value": 251.23
+    },
+    {
+      "Product": "Cheeky Caramels 12.69oz",
+      "ManufacturerProductCode": "CS-04415-0360",
+      "Units": 358,
+      "Value": 3003.62
+    },
+    {
+      "Product": "Meltos 7.05oz",
+      "ManufacturerProductCode": "CS-15129-0200",
+      "Units": 621,
+      "Value": 3533.49
+    },
+    {
+      "Product": "Caramax 10.57oz",
+      "ManufacturerProductCode": "CS-03233-0300",
+      "Units": 652,
+      "Value": 2536.28
+    },
+    {
+      "Product": "Zoots 12.69oz",
+      "ManufacturerProductCode": "CS-24976-0360",
+      "Units": 344,
+      "Value": 1475.76
+    },
+    {
+      "Product": "Obelisk 22.03oz",
+      "ManufacturerProductCode": "CS-15535-0625",
+      "Units": 152,
+      "Value": 1548.88
+    },
+    {
+      "Product": "Boho 2.82oz",
+      "ManufacturerProductCode": "CS-01414-0080",
+      "Units": 90,
+      "Value": 287.1
+    },
+    {
+      "Product": "Sweetsverse 2.82oz",
+      "ManufacturerProductCode": "CS-21200-0080",
+      "Units": 52,
+      "Value": 103.48
+    },
+    {
+      "Product": "Boho 28.19oz",
+      "ManufacturerProductCode": "CS-01414-0800",
+      "Units": 830,
+      "Value": 18749.7
+    },
+    {
+      "Product": "Obelisk 35.24oz",
+      "ManufacturerProductCode": "CS-15535-1000",
+      "Units": 359,
+      "Value": 5237.81
+    },
+    {
+      "Product": "Pippops 22.91oz",
+      "ManufacturerProductCode": "CS-17732-0650",
+      "Units": 81,
+      "Value": 647.19
+    },
+    {
+      "Product": "Unicorn 4.23oz",
+      "ManufacturerProductCode": "CS-23002-0120",
+      "Units": 127,
+      "Value": 227.33
+    },
+    {
+      "Product": "Huckles 5.29oz",
+      "ManufacturerProductCode": "CS-14382-0150",
+      "Units": 169,
+      "Value": 403.91
+    },
+    {
+      "Product": "Zigzags 1.41oz",
+      "ManufacturerProductCode": "CS-24394-0040",
+      "Units": 225,
+      "Value": 222.75
+    },
+    {
+      "Product": "Sailor Joe 4.23oz",
+      "ManufacturerProductCode": "CS-18598-0120",
+      "Units": 136,
+      "Value": 325.04
+    },
+    {
+      "Product": "Unicorn 16.92oz",
+      "ManufacturerProductCode": "CS-23002-0480",
+      "Units": 18,
+      "Value": 102.42
+    },
+    {
+      "Product": "Buzzers 11.98oz",
+      "ManufacturerProductCode": "CS-02329-0340",
+      "Units": 137,
+      "Value": 491.83
+    },
+    {
+      "Product": "Unicorn 6.77oz",
+      "ManufacturerProductCode": "CS-23002-0192",
+      "Units": 80,
+      "Value": 199.2
+    },
+    {
+      "Product": "Buzzers 3.00oz",
+      "ManufacturerProductCode": "CS-02329-0085",
+      "Units": 506,
+      "Value": 602.14
+    },
+    {
+      "Product": "Pippops 2.29oz",
+      "ManufacturerProductCode": "CS-17732-0065",
+      "Units": 46,
+      "Value": 50.14
+    },
+    {
+      "Product": "Daydream 2.82oz",
+      "ManufacturerProductCode": "CS-07320-0080",
+      "Units": 365,
+      "Value": 470.85
+    },
+    {
+      "Product": "Cheeky Caramels 3.17oz",
+      "ManufacturerProductCode": "CS-04415-0090",
+      "Units": 879,
+      "Value": 2276.61
+    },
+    {
+      "Product": "Sweetsverse 28.19oz",
+      "ManufacturerProductCode": "CS-21200-0800",
+      "Units": 814,
+      "Value": 12120.46
+    },
+    {
+      "Product": "Googlies 4.83oz",
+      "ManufacturerProductCode": "CS-12196-0137",
+      "Units": 886,
+      "Value": 1142.94
+    },
+    {
+      "Product": "Boho 11.28oz",
+      "ManufacturerProductCode": "CS-01414-0320",
+      "Units": 58,
+      "Value": 596.82
+    },
+    {
+      "Product": "Creamies 2.64oz",
+      "ManufacturerProductCode": "CS-06633-0075",
+      "Units": 674,
+      "Value": 1273.86
+    },
+    {
+      "Product": "Gnaw 16.92oz",
+      "ManufacturerProductCode": "CS-11439-0480",
+      "Units": 611,
+      "Value": 2376.79
+    },
+    {
+      "Product": "Rokkolate 4.23oz",
+      "ManufacturerProductCode": "CS-17964-0120",
+      "Units": 90,
+      "Value": 152.1
+    },
+    {
+      "Product": "Paramels 13.39oz",
+      "ManufacturerProductCode": "CS-15988-0380",
+      "Units": 743,
+      "Value": 9131.47
+    },
+    {
+      "Product": "Forage Bar 5.71oz",
+      "ManufacturerProductCode": "CS-10573-0162",
+      "Units": 7,
+      "Value": 16.73
+    },
+    {
+      "Product": "Bitterbutter 9.69oz",
+      "ManufacturerProductCode": "CS-01087-0275",
+      "Units": 361,
+      "Value": 1548.69
+    },
+    {
+      "Product": "Hoots 6.17oz",
+      "ManufacturerProductCode": "CS-13469-0175",
+      "Units": 852,
+      "Value": 3143.88
+    },
+    {
+      "Product": "Sailor Joe 10.57oz",
+      "ManufacturerProductCode": "CS-18598-0300",
+      "Units": 92,
+      "Value": 486.68
+    },
+    {
+      "Product": "Rumbuns 9.87oz",
+      "ManufacturerProductCode": "CS-18317-0280",
+      "Units": 811,
+      "Value": 6804.29
+    },
+    {
+      "Product": "Googlies 19.38oz",
+      "ManufacturerProductCode": "CS-12196-0550",
+      "Units": 53,
+      "Value": 227.37
+    },
+    {
+      "Product": "Banonza 6.59oz",
+      "ManufacturerProductCode": "CS-00839-0187",
+      "Units": 673,
+      "Value": 3223.67
+    },
+    {
+      "Product": "Forage Bar 2.29oz",
+      "ManufacturerProductCode": "CS-10573-0065",
+      "Units": 876,
+      "Value": 954.84
+    },
+    {
+      "Product": "Cerealice 1.41oz",
+      "ManufacturerProductCode": "CS-04373-0040",
+      "Units": 896,
+      "Value": 1514.24
+    },
+    {
+      "Product": "Petals 3.07oz",
+      "ManufacturerProductCode": "CS-16936-0087",
+      "Units": 222,
+      "Value": 574.98
+    },
+    {
+      "Product": "Sailor Joe 42.29oz",
+      "ManufacturerProductCode": "CS-18598-1200",
+      "Units": 37,
+      "Value": 647.13
+    },
+    {
+      "Product": "Bravo 1.76oz",
+      "ManufacturerProductCode": "CS-01629-0050",
+      "Units": 610,
+      "Value": 420.9
+    },
+    {
+      "Product": "Chocolatey Nougat 14.10oz",
+      "ManufacturerProductCode": "CS-04960-0400",
+      "Units": 648,
+      "Value": 2391.12
+    },
+    {
+      "Product": "Schnoogles 14.10oz",
+      "ManufacturerProductCode": "CS-20147-0400",
+      "Units": 12,
+      "Value": 177.48
+    },
+    {
+      "Product": "Sailor Joe 16.92oz",
+      "ManufacturerProductCode": "CS-18598-0480",
+      "Units": 729,
+      "Value": 5533.11
+    },
+    {
+      "Product": "Minotaur 3.35oz",
+      "ManufacturerProductCode": "CS-15331-0095",
+      "Units": 250,
+      "Value": 422.5
+    },
+    {
+      "Product": "Banananice 1.76oz",
+      "ManufacturerProductCode": "CS-00433-0050",
+      "Units": 656,
+      "Value": 846.24
+    },
+    {
+      "Product": "Banonza 2.64oz",
+      "ManufacturerProductCode": "CS-00839-0075",
+      "Units": 809,
+      "Value": 1771.71
+    },
+    {
+      "Product": "Flair 28.19oz",
+      "ManufacturerProductCode": "CS-09937-0800",
+      "Units": 277,
+      "Value": 6589.83
+    },
+    {
+      "Product": "Banananice 4.41oz",
+      "ManufacturerProductCode": "CS-00433-0125",
+      "Units": 130,
+      "Value": 375.7
+    },
+    {
+      "Product": "Yumyums 2.29oz",
+      "ManufacturerProductCode": "CS-24147-0065",
+      "Units": 85,
+      "Value": 160.65
+    },
+    {
+      "Product": "Meltos 2.82oz",
+      "ManufacturerProductCode": "CS-15129-0080",
+      "Units": 858,
+      "Value": 2308.02
+    },
+    {
+      "Product": "Gumbles 1.76oz",
+      "ManufacturerProductCode": "CS-12804-0050",
+      "Units": 658,
+      "Value": 783.02
+    },
+    {
+      "Product": "Paramels 3.35oz",
+      "ManufacturerProductCode": "CS-15988-0095",
+      "Units": 337,
+      "Value": 1310.93
+    },
+    {
+      "Product": "Pippops 9.16oz",
+      "ManufacturerProductCode": "CS-17732-0260",
+      "Units": 589,
+      "Value": 2114.51
+    },
+    {
+      "Product": "Cerealice 3.52oz",
+      "ManufacturerProductCode": "CS-04373-0100",
+      "Units": 550,
+      "Value": 1974.5
+    },
+    {
+      "Product": "Cerealice 14.10oz",
+      "ManufacturerProductCode": "CS-04373-0400",
+      "Units": 401,
+      "Value": 4767.89
+    },
+    {
+      "Product": "Constellation 16.00oz",
+      "ManufacturerProductCode": "CS-05892-0454",
+      "Units": 588,
+      "Value": 5403.72
+    },
+    {
+      "Product": "Chocolatey Nougat 3.52oz",
+      "ManufacturerProductCode": "CS-04960-0100",
+      "Units": 702,
+      "Value": 835.38
+    },
+    {
+      "Product": "Zigzags 14.10oz",
+      "ManufacturerProductCode": "CS-24394-0400",
+      "Units": 451,
+      "Value": 2881.89
+    },
+    {
+      "Product": "Unicorn 1.69oz",
+      "ManufacturerProductCode": "CS-23002-0048",
+      "Units": 259,
+      "Value": 230.51
+    },
+    {
+      "Product": "Gnaw 4.23oz",
+      "ManufacturerProductCode": "CS-11439-0120",
+      "Units": 627,
+      "Value": 808.83
+    },
+    {
+      "Product": "Xero 10.57oz",
+      "ManufacturerProductCode": "CS-23807-0300",
+      "Units": 897,
+      "Value": 2502.63
+    },
+    {
+      "Product": "Carousel 16.00oz",
+      "ManufacturerProductCode": "CS-03790-0454",
+      "Units": 555,
+      "Value": 4489.95
+    },
+    {
+      "Product": "Gnaw 10.57oz",
+      "ManufacturerProductCode": "CS-11439-0300",
+      "Units": 393,
+      "Value": 1057.17
+    },
+    {
+      "Product": "Bravo 7.05oz",
+      "ManufacturerProductCode": "CS-01629-0200",
+      "Units": 595,
+      "Value": 1362.55
+    },
+    {
+      "Product": "Cheeky Caramels 7.93oz",
+      "ManufacturerProductCode": "CS-04415-0225",
+      "Units": 274,
+      "Value": 1559.06
+    },
+    {
+      "Product": "Dynasty 16.00oz",
+      "ManufacturerProductCode": "CS-08304-0454",
+      "Units": 86,
+      "Value": 962.34
+    },
+    {
+      "Product": "Paramels 33.48oz",
+      "ManufacturerProductCode": "CS-15988-0950",
+      "Units": 708,
+      "Value": 19038.12
+    },
+    {
+      "Product": "Gumbles 4.41oz",
+      "ManufacturerProductCode": "CS-12804-0125",
+      "Units": 687,
+      "Value": 1710.63
+    },
+    {
+      "Product": "Fairy Sweets 1.59oz",
+      "ManufacturerProductCode": "CS-09360-0045",
+      "Units": 613,
+      "Value": 422.97
+    },
+    {
+      "Product": "Flair 7.05oz",
+      "ManufacturerProductCode": "CS-09937-0200",
+      "Units": 865,
+      "Value": 6478.85
+    },
+    {
+      "Product": "Rokkolate 10.57oz",
+      "ManufacturerProductCode": "CS-17964-0300",
+      "Units": 669,
+      "Value": 2468.61
+    },
+    {
+      "Product": "Googlies 7.75oz",
+      "ManufacturerProductCode": "CS-12196-0220",
+      "Units": 812,
+      "Value": 1534.68
+    },
+    {
+      "Product": "Minotaur 33.48oz",
+      "ManufacturerProductCode": "CS-15331-0950",
+      "Units": 45,
+      "Value": 584.55
+    },
+    {
+      "Product": "Cerealice 5.64oz",
+      "ManufacturerProductCode": "CS-04373-0160",
+      "Units": 452,
+      "Value": 2391.08
+    },
+    {
+      "Product": "Zoots 7.93oz",
+      "ManufacturerProductCode": "CS-24976-0225",
+      "Units": 236,
+      "Value": 752.84
+    },
+    {
+      "Product": "Whippersnappers 1.76oz",
+      "ManufacturerProductCode": "CS-23260-0050",
+      "Units": 349,
+      "Value": 589.81
+    },
+    {
+      "Product": "Twisters 10.57oz",
+      "ManufacturerProductCode": "CS-22005-0300",
+      "Units": 13,
+      "Value": 47.97
+    },
+    {
+      "Product": "Magma 2.47oz",
+      "ManufacturerProductCode": "CS-14782-0070",
+      "Units": 646,
+      "Value": 1285.54
+    },
+    {
+      "Product": "Petals 1.23oz",
+      "ManufacturerProductCode": "CS-16936-0035",
+      "Units": 271,
+      "Value": 322.49
+    }
+  ]
+}

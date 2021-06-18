@@ -1,0 +1,120 @@
+SalesMonth,Retailer,Product,SalesValueUSD,UnitsSold
+"01-jul-2020","Just One More","Cerealice 5.64oz",4636.99,911
+"01-jul-2020","Just One More","Paramels 8.35oz",3456.68,412
+"01-jul-2020","Just One More","Rumbuns 9.87oz",7772.31,949
+"01-jul-2020","Just One More","Schnoogles 3.52oz",4.49,1
+"01-jul-2020","Just One More","Zigzags 5.64oz",828.63,297
+"01-jul-2020","Just One More","Dr Sweets 9.52oz",819.65,485
+"01-jul-2020","Just One More","Flair 17.62oz",17870.13,1097
+"01-jul-2020","Just One More","Huckles 2.11oz",1065.24,1076
+"01-jul-2020","Just One More","Constellation 16.00oz",4126.86,454
+"01-jul-2020","Just One More","Paramels 33.48oz",10084.12,388
+"01-jul-2020","Just One More","Cheeky Caramels 31.72oz",7783.05,445
+"01-jul-2020","Just One More","Magma 6.17oz",3854.80,920
+"01-jul-2020","Just One More","Minotaur 3.35oz",1010.62,598
+"01-jul-2020","Just One More","Flair 28.19oz",8374.45,355
+"01-jul-2020","Just One More","Unicorn 16.92oz",1479.40,260
+"01-jul-2020","Just One More","Pippops 9.16oz",351.82,98
+"01-jul-2020","Just One More","Petals 1.23oz",921.06,774
+"01-jul-2020","Just One More","Rokkolate 4.23oz",882.45,555
+"01-jul-2020","Just One More","Xero 4.23oz",865.59,671
+"01-jul-2020","Just One More","Banonza 2.64oz",1909.68,872
+"01-jul-2020","Just One More","Minotaur 33.48oz",2017.71,159
+"01-jul-2020","Just One More","Dynasty 16.00oz",10627.33,967
+"01-jul-2020","Just One More","Zigzags 1.41oz",747.60,840
+"01-jul-2020","Just One More","Bravo 1.76oz",577.53,837
+"01-jul-2020","Just One More","Buzzers 11.98oz",2010.24,576
+"01-jul-2020","Just One More","Sweetlings 11.28oz",4506.13,557
+"01-jul-2020","Just One More","Salt Chocolate 26.43oz",7815.53,1087
+"01-jul-2020","Just One More","Paramels 13.39oz",6770.40,560
+"01-jul-2020","Just One More","Twisters 16.92oz",1007.98,202
+"01-jul-2020","Just One More","Caramax 2.64oz",65.45,55
+"01-jul-2020","Just One More","Schnoogles 14.10oz",12718.10,890
+"01-jul-2020","Just One More","Cheeky Caramels 12.69oz",5123.22,618
+"01-jul-2020","Just One More","Sweetlings 7.05oz",3606.93,657
+"01-jul-2020","Just One More","Hoots 2.47oz",575.58,362
+"01-jul-2020","Just One More","Boho 2.82oz",803.88,252
+"01-jul-2020","Just One More","Fairy Sweets 1.59oz",236.00,400
+"01-jul-2020","Just One More","Bitterbutter 15.51oz",5742.87,943
+"01-jul-2020","Just One More","Sportsman 2.82oz",291.54,226
+"01-jul-2020","Just One More","Pippops 2.29oz",819.72,828
+"01-jul-2020","Just One More","Unicorn 1.69oz",805.80,1020
+"01-jul-2020","Just One More","Meltos 7.05oz",1119.96,204
+"01-jul-2020","Just One More","Gnaw 10.57oz",2854.09,1061
+"01-jul-2020","Just One More","Sweetlings 2.82oz",1386.93,557
+"01-jul-2020","Just One More","Cerealice 3.52oz",3187.92,888
+"01-jul-2020","Just One More","Whippersnappers 4.41oz",1665.76,464
+"01-jul-2020","Just One More","Meltos 28.19oz",12517.80,620
+"01-jul-2020","Just One More","Gumbles 1.76oz",810.39,681
+"01-jul-2020","Just One More","Elysian Fudge 1.76oz",1572.62,658
+"01-jul-2020","Just One More","Meltos 2.82oz",973.84,376
+"01-jul-2020","Just One More","Hoots 6.17oz",2771.48,772
+"01-jul-2020","Just One More","Creamies 2.64oz",245.23,137
+"01-jul-2020","Just One More","The Original 10.57oz",3515.43,1037
+"01-jul-2020","Just One More","Sailor Joe 10.57oz",2288.79,441
+"01-jul-2020","Just One More","Cheeky Caramels 3.17oz",2429.42,938
+"01-jul-2020","Just One More","Daydream 7.05oz",325.49,121
+"01-jul-2020","Just One More","Daydream 2.82oz",52.89,41
+"01-jul-2020","Just One More","Zoots 3.17oz",271.05,195
+"01-jul-2020","Just One More","Gnaw 4.23oz",334.11,259
+"01-jul-2020","Just One More","Salt Chocolate 10.57oz",2542.43,797
+"01-jul-2020","Just One More","Cerealice 14.10oz",9109.74,786
+"01-jul-2020","Just One More","Schnoogles 8.81oz",2421.60,240
+"01-jul-2020","Just One More","Huckles 5.29oz",1786.20,780
+"01-jul-2020","Just One More","Hoots 9.87oz",3148.69,631
+"01-jul-2020","Just One More","The Original 4.23oz",950.82,598
+"01-jul-2020","Just One More","Carousel 16.00oz",8284.16,1024
+"01-jul-2020","Just One More","Chocolatey Nougat 3.52oz",819.91,689
+"01-jul-2020","Just One More","Petals 3.07oz",1305.36,504
+"01-jul-2020","Just One More","Pippops 22.91oz",1230.82,158
+"01-jul-2020","Just One More","Sweetsverse 28.19oz",6892.81,479
+"01-jul-2020","Just One More","Minotaur 13.39oz",2774.19,471
+"01-jul-2020","Just One More","Yumyums 22.91oz",6120.16,464
+"01-jul-2020","Just One More","Yumyums 5.71oz",989.78,242
+"01-jul-2020","Just One More","Boho 7.05oz",5370.89,791
+"01-jul-2020","Just One More","Twisters 4.23oz",25.44,16
+"01-jul-2020","Just One More","Zigzags 14.10oz",3987.86,634
+"01-jul-2020","Just One More","Caramax 6.59oz",2460.50,950
+"01-jul-2020","Just One More","Elysian Fudge 4.41oz",3702.93,687
+"01-jul-2020","Just One More","Sportsman 7.05oz",2020.20,780
+"01-jul-2020","Just One More","Elysian Fudge 7.05oz",8113.71,1069
+"01-jul-2020","Just One More","Banananice 4.41oz",845.37,303
+"01-jul-2020","Just One More","Chocolatey Nougat 8.81oz",1899.87,763
+"01-jul-2020","Just One More","Forage Bar 5.71oz",1399.19,611
+"01-jul-2020","Just One More","Googlies 19.38oz",2664.84,636
+"01-jul-2020","Just One More","Banonza 6.59oz",454.93,97
+"01-jul-2020","Just One More","Bitterbutter 3.88oz",1780.38,942
+"01-jul-2020","Just One More","Forage Bar 2.29oz",756.46,694
+"01-jul-2020","Just One More","Buzzers 7.47oz",1060.74,426
+"01-jul-2020","Just One More","Flair 7.05oz",2442.15,335
+"01-jul-2020","Just One More","Cerealice 1.41oz",131.82,78
+"01-jul-2020","Just One More","Unicorn 4.23oz",1346.93,797
+"01-jul-2020","Just One More","Yumyums 2.29oz",225.54,126
+"01-jul-2020","Just One More","Creamies 10.57oz",2673.25,425
+"01-jul-2020","Just One More","Googlies 1.94oz",732.78,1062
+"01-jul-2020","Just One More","Boho 11.28oz",4540.50,450
+"01-jul-2020","Just One More","Bravo 7.05oz",556.47,243
+"01-jul-2020","Just One More","Googlies 7.75oz",2071.44,1096
+"01-jul-2020","Just One More","Sweetsverse 2.82oz",2039.75,1025
+"01-jul-2020","Just One More","Rumbuns 2.47oz",231.83,97
+"01-jul-2020","Just One More","Banananice 1.76oz",1003.62,778
+"01-jul-2020","Just One More","Zoots 12.69oz",1093.59,261
+"01-jul-2020","Just One More","Obelisk 35.24oz",5661.81,399
+"01-jul-2020","Just One More","Zoots 7.93oz",2184.63,707
+"01-jul-2020","Just One More","Sailor Joe 4.23oz",387.01,169
+"01-jul-2020","Just One More","Obelisk 22.03oz",8041.73,797
+"01-jul-2020","Just One More","Xero 10.57oz",2232.00,800
+"01-jul-2020","Just One More","Bitterbutter 9.69oz",1206.72,288
+"01-jul-2020","Just One More","Buzzers 3.00oz",534.10,490
+"01-jul-2020","Just One More","Cheeky Caramels 7.93oz",3101.85,565
+"01-jul-2020","Just One More","Obelisk 8.81oz",3003.81,669
+"01-jul-2020","Just One More","Rokkolate 10.57oz",2358.63,657
+"01-jul-2020","Just One More","Magma 2.47oz",670.95,355
+"01-jul-2020","Just One More","Whippersnappers 1.76oz",550.14,346
+"01-jul-2020","Just One More","Yumyums 9.16oz",5888.43,1017
+"01-jul-2020","Just One More","Gumbles 4.41oz",2054.25,825
+"01-jul-2020","Just One More","Paramels 3.35oz",3403.75,875
+"01-jul-2020","Just One More","Zigzags 3.52oz",1329.32,668
+"01-jul-2020","Just One More","Unicorn 6.77oz",1008.45,405
+"01-jul-2020","Just One More","Sailor Joe 42.29oz",15715.44,936
+"01-jul-2020","Just One More","Sailor Joe 16.92oz",5025.20,680

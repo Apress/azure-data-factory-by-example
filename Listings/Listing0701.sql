@@ -1,0 +1,6 @@
+CREATE TABLE dbo.Product (
+  Product NVARCHAR(255) PRIMARY KEY
+, ProductName NVARCHAR(255) NOT NULL
+, WeightInOunces DECIMAL(19,2) NOT NULL
+, WeightInGrams DECIMAL(19,2) NOT NULL
+);

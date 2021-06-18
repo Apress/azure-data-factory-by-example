@@ -1,0 +1,20 @@
+{
+    "Microsoft.DataFactory/factories": {
+        "properties": {
+            "globalParameters": {
+                "*": {
+                    "value": "="
+                }
+            }
+        }
+    },
+    "Microsoft.DataFactory/factories/linkedServices": {
+        "AzureKeyVault": {
+            "properties": {
+                "typeProperties": {
+                    "baseUrl": "="
+                }
+            }
+        }
+    }
+}

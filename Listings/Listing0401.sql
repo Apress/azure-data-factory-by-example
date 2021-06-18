@@ -1,0 +1,3 @@
+ALTER TABLE [dbo].[Sales_LOAD]
+ADD PipelineRunId UNIQUEIDENTIFIER NULL
+  , SourceFileName NVARCHAR(1024) NULL;
